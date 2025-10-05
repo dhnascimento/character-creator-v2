@@ -27,10 +27,12 @@
 
 .characterWrapper {
   position: fixed;
-  width: auto;
-  height: 500px;
-  top: 128px;
-  right: 128px;
+  min-height: 500px;
+  top: 10%;
+  left: 60%;
+  margin-left: 32px;
+  bottom: 5%;
+
 }
 
 .controlColumn {
